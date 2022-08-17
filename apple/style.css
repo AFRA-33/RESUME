@@ -1,0 +1,134 @@
+.top{
+    margin-top: 20px;
+    color: grey;
+    margin: 11.5px;
+    /* align-items: center;
+    display: flex;
+    text-align: center; */
+}              
+.maincontainer{
+    margin-top: 0;
+    padding: 0;
+    width: 1000px;
+}
+.img{
+    background-color: black;
+    /* width: 1000px; */
+    height: 50px;
+   /* margin: 0; */
+   padding-top: 15px;
+   margin-top: 0;
+   
+}
+.head{
+    text-align: center;
+    background-color: bisque;
+    align-items: center;
+    display: flex;
+justify-content: center;
+height: 80px;
+}
+.head img{
+    /* border: 2px solid red; */
+    display: flex;
+justify-content: center;
+text-align: center;
+padding: 5px;
+margin-bottom: 25px;
+}
+.macbook{
+    text-align: center;
+    margin-top: 50px;
+    padding: 0%;
+    /* border: 2px solid rgb(0, 8, 255); */
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    /* border: 2px solid red; */
+    margin: 0%;
+   
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin: 0%;
+   /* border: 2px solid rgb(0, 255, 13);  */
+}
+a{
+    color: rgb(22, 126, 223);
+}
+.arrow{
+    /* border: 2px solid red; */
+    margin-right: 25px;
+    margin-left: 5px;
+   margin-top: 10px;
+}
+.second{
+    align-items: center;
+    display: flex;
+justify-content: center;
+/* border: 2px solid black ; */
+}
+.text{
+    color: rgb(141, 7, 112);
+}
+.third{
+    align-items: center;
+    display: flex;
+justify-content: center;
+/* border: 2px solid black; */
+margin: 0%;
+}
+.Save{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#laptop{
+    text-align: center;
+    width: 500px;
+    /* height: 7000px; */
+    /* border: 2px solid red; */
+    /* margin: 50px; */
+    margin-left: 250px;
+    margin-top: 20px;
+}
+#iphone{
+    /* border: 2px solid black; */
+    margin: 150px;
+}
+.mobile{
+    /* border: 2px solid red; */
+    margin: 50px;
+    text-align: center;
+    margin-left: 250px;
+}
+.add{
+     /* border: 2px solid red; */
+     margin-bottom: 7px;
+}
+.left{
+    width: 50%;
+    background-color: rgb(203, 35, 35);
+    height: 500px;
+}
+.container{
+    display: flex;
+    margin: 20px;
+}
+.right{
+    width: 50%;
+    background-color: black;
+    /* height: 500px; */
+    text-align: center;
+    padding: 30px;
+}
+#mac{
+    color: white;
+}
+#super{
+    color: white;
+}
+#lap{
+    padding: 50px;
+    border: 2px solid white;
+}
